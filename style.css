@@ -29,3 +29,8 @@ form {
 label {
   color: green;
 }
+.g-recaptcha {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
